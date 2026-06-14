@@ -52,7 +52,7 @@ Utilizei fontes oficiais do ecossistema Google para garantir que as respostas da
 * **DMARC:** Protocolo que utiliza SPF e DKIM para fornecer instruções ao servidor do destinatário sobre como lidar com e-mails não autenticados.
 
 ### Prompts Reutilizáveis
-> "Atue como um Especialista em Workspace. Analise o cabeçalho de mensagem fornecido e identifique qual falha de autenticação (SPF/DKIM/DMARC) está ocorrendo e como corrigir no painel admin."
+> "Atue como um Especialista em Workspace. Me ajude a evitar que meus e-mails sejam marcados como spam?"
 
 ---
 ### Resultados
