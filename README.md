@@ -56,10 +56,14 @@ Utilizei fontes oficiais do ecossistema Google para garantir que as respostas da
 
 ---
 ### Resultados
+
+
+https://github.com/user-attachments/assets/bfd4709c-811f-425a-876f-7c62d06200e9
+
+
 <img width="1906" height="797" alt="image" src="https://github.com/user-attachments/assets/035b98a5-92ad-4af9-8ea2-ea70cee3240a" />
 <img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/06f35c62-688d-4c89-8f1d-dba60123e375" />
 <img width="1915" height="891" alt="image" src="https://github.com/user-attachments/assets/72f07775-7acc-444b-9771-300ee71cde83" />
-
 
 
 
